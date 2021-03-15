@@ -3,7 +3,7 @@ Course: Software Project Management and Software Engineering
 
 # My Team
 
-|       Full           | Studen Id |        Subject            |
+|       Full Name      | Studen Id |        Subject            |
 |----------------------|-----------|---------------------------|
 | Ho Huy Hoang         | 18110284  | Project Management        |
 |                      |           | Software Engineering      |
