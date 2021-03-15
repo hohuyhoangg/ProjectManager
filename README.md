@@ -1,4 +1,4 @@
-# ProjectManager
+# Project
 Course: Software Project Management and Software Engineering
 
 # My Team
